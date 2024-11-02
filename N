@@ -1,0 +1,6 @@
+{
+    "name": "DAT Token",
+    "symbol": "DAT",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=035"
+}
